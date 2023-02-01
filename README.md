@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<img src="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen>
+<iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG">via GIPHY</a></p>
 - 🌱 I’m currently learning Javascript, Python, MySql and C 
 - 👯 I’m looking to collaborate on any projects where I can improve my skills 😁
 - 💬 Ask me about anything
