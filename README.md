@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen>
--->
 
+-->
+<img src="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen>
 - 🌱 I’m currently learning Javascript, Python, MySql and C 
 - 👯 I’m looking to collaborate on any projects where I can improve my skills 😁
 - 💬 Ask me about anything
