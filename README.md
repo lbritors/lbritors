@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning Javascript, Python, MySql and C 
+- 🌱 I’m working with Javascript, Typescript, C++, PostgresSQL, MySql. 
 - 👯 I’m looking to collaborate on any projects where I can improve my skills 😁
 - 💬 Ask me about anything
 - 📫 How to reach me: 
