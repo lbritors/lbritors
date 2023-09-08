@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Letícia Brito!</h1>
 <h3 align="center">A Full Stack developer and Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Docker**, **C++** and **Arduino**
-
-- 📝 You can discover more about me on [https://www.linkedin.com/in/leticia-britors/](https://www.linkedin.com/in/leticia-britors/)
-
+- 🌱 I’m currently learning **Docker** and **Arduino**
 - 📫 How to reach me **britoleticiars@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
